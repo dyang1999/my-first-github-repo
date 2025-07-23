@@ -2,3 +2,4 @@
 Here is my a temp git repo
 
 cherry pick example
+stashing example
